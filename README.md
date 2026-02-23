@@ -45,3 +45,7 @@ kubectl describe service nexus-service -n devops-tools
 Paso 5: Acceso a Nexus.
 http://10.100.43.0:32001/nexus
 http://10.100.43.0:32001
+
+
+## Licencia 📄
+Bajo licencia GNU General Public License v3.0
