@@ -49,3 +49,8 @@ http://10.100.43.0:32001
 
 ## Licencia 📄
 Bajo licencia GNU General Public License v3.0
+
+
+## Autor
+Alejandro Velaz
+🎓 Formación: ASIR
